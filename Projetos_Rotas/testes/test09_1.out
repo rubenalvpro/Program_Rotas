@@ -1,0 +1,51 @@
+BOR (1): Existem 0 ligações a partir de Bordeus
+BRU (1): Existem 0 ligações a partir de Bruxelas
+FRA (1): Existem 0 ligações a partir de Frankfurt
+LIS (1): Existem 0 ligações a partir de Lisboa
+LON (1): Existem 0 ligações a partir de Londres
+LYN (1): Existem 0 ligações a partir de Lyon
+MAD (1): Existem 0 ligações a partir de Madrid
+MIL (1): Existem 0 ligações a partir de Milao
+OPO (1): Existem 0 ligações a partir de Porto
+PAR (1): Existem 0 ligações a partir de Paris
+ROM (1): Existem 0 ligações a partir de Roma
+11
+BOR (0): Existem 3 ligações a partir de Bordeus
+BRU (1): Existem 0 ligações a partir de Bruxelas
+FRA (1): Existem 0 ligações a partir de Frankfurt
+LIS (1): Existem 2 ligações a partir de Lisboa
+LON (1): Existem 0 ligações a partir de Londres
+LYN (1): Existem 2 ligações a partir de Lyon
+MAD (1): Existem 2 ligações a partir de Madrid
+MIL (1): Existem 1 ligações a partir de Milao
+OPO (1): Existem 1 ligações a partir de Porto
+PAR (1): Existem 1 ligações a partir de Paris
+ROM (1): Existem 0 ligações a partir de Roma
+11
+BOR (1): Existem 4 ligações a partir de Bordeus
+BRU (1): Existem 1 ligações a partir de Bruxelas
+FRA (1): Existem 2 ligações a partir de Frankfurt
+LIS (1): Existem 2 ligações a partir de Lisboa
+LON (1): Existem 1 ligações a partir de Londres
+LYN (1): Existem 3 ligações a partir de Lyon
+MAD (0): Existem 2 ligações a partir de Madrid
+MIL (1): Existem 2 ligações a partir de Milao
+OPO (1): Existem 1 ligações a partir de Porto
+PAR (1): Existem 4 ligações a partir de Paris
+ROM (1): Existem 1 ligações a partir de Roma
+*Cidade MAD inativa
+LIS->MAD E=1.00
+	LIS->MAD
+11
+LIS->ROM H=5.00
+	LIS->MAD->BOR->LYN->MIL->ROM
+BOR (1): Existem 4 ligações a partir de Bordeus
+	->MAD: 1.00 1.00 1.00
+	->PAR: 2.55 1.00 1.00
+	->LYN: 6.09 1.00 1.00
+	->LON: 1.00 1.00 1.00
+LIS->ROM H=7.55
+	LIS->MAD->BOR->PAR->LYN->MIL->ROM
+FRA->OPO T=4.00
+	FRA->PAR->BOR->MAD->OPO
+*FRA->OPO sem ligação

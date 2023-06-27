@@ -1,0 +1,17 @@
+*Ficheiro xpto.lll não suportado
+*Base de dados vazia
+MAD (1): Existem 0 ligações a partir de Madrid
+LIS (1): Existem 0 ligações a partir de Lisboa
+*Cidade ZRH inexistente
+LIS (1): Existem 0 ligações a partir de Lisboa
+MAD (1): Existem 0 ligações a partir de Madrid
+OPO (1): Existem 0 ligações a partir de Porto
+3
+LIS (1): Existem 1 ligações a partir de Lisboa
+	->MAD: 1.00 1.00 1.00
+LIS (1): Existem 1 ligações a partir de Lisboa
+LIS (1): Existem 1 ligações a partir de Lisboa
+	->MAD: 1.00 1.00 4.45
+*Cidade LIS inexistente
+MAD (1): Existem 0 ligações a partir de Madrid
+OPO (1): Existem 0 ligações a partir de Porto

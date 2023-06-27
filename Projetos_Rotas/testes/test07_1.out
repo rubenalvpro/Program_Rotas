@@ -1,0 +1,33 @@
+*Cidade OOO inexistente
+*Cidade FFF inexistente
+*Cidade TRR inexistente
+*Ligação LIS->COR inexistente
+*Cidade OOO inexistente
+*Cidade FFF inexistente
+*Cidade TRR inexistente
+*Ligação LIS->COR inexistente
+*Cidade OOO inexistente
+*Cidade FFF inexistente
+*Cidade TRR inexistente
+*Ligação LIS->COR inexistente
+COR (1): Existem 0 ligações a partir de Cordoba
+LIS (1): Existem 4 ligações a partir de Lisboa
+LON (1): Existem 0 ligações a partir de Londres
+MAD (1): Existem 4 ligações a partir de Madrid
+OPO (1): Existem 2 ligações a partir de Porto
+PAR (1): Existem 0 ligações a partir de Paris
+SVQ (1): Existem 0 ligações a partir de Sevilha
+ZRH (1): Existem 1 ligações a partir de Zurique
+MAD (1): Existem 4 ligações a partir de Madrid
+	->LIS: 886.59 6.69 6.69
+	->SVQ: 1.00 4.55 1.00
+	->COR: 5.99 8.99 8.99
+	->ZRH: 1.00 1.00 1.00
+LIS (1): Existem 4 ligações a partir de Lisboa
+	->OPO: 1.00 1.00 0.55
+	->MAD: 31.34 5.44 3.44
+	->ZRH: 1.00 1.00 1.00
+	->SVQ: 4.22 1.00 1.00
+ZRH (1): Existem 1 ligações a partir de Zurique
+	->MAD: 1.00 1.00 8.88
+SGO gravado no ficheiro data.sgo

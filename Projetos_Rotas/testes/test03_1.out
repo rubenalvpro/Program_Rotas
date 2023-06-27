@@ -1,0 +1,13 @@
+LIS (1): Existem 0 ligações a partir de Lisboa
+OPO (1): Existem 0 ligações a partir de Porto
+LIS (1): Existem 0 ligações a partir de Lisboa
+MAD (1): Existem 0 ligações a partir de Madrid
+OPO (0): Existem 0 ligações a partir de Porto
+ZRH (1): Existem 0 ligações a partir de Zurique
+LIS (1): Existem 3 ligações a partir de Lisboa
+	->OPO: 1.00 1.00 1.00
+	->MAD: 1.00 1.00 1.00
+	->ZRH: 1.00 1.00 1.00
+OPO (0): Existem 1 ligações a partir de Porto
+	->LIS: 1.00 1.00 1.00
+ZRH (1): Existem 0 ligações a partir de Zurique

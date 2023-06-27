@@ -1,0 +1,20 @@
+LIS (1): Existem 1 ligações a partir de Lisboa
+MAD (1): Existem 1 ligações a partir de Madrid
+OPO (1): Existem 2 ligações a partir de Porto
+PAR (1): Existem 1 ligações a partir de Paris
+SVQ (1): Existem 3 ligações a partir de Sevilha
+LIS (1): Existem 1 ligações a partir de Lisboa
+	->OPO: 1.20 23.20 6.99
+OPO (1): Existem 2 ligações a partir de Porto
+	->LIS: 1.29 12.00 22.00
+	->MAD: 12.11 2.10 10.00
+MAD (1): Existem 1 ligações a partir de Madrid
+	->SVQ: 6.33 2.35 12.00
+SVQ (1): Existem 3 ligações a partir de Sevilha
+SVQ (1): Existem 3 ligações a partir de Sevilha
+	->MAD: 1.90 2.90 21.00
+	->LIS: 1.20 12.00 1.00
+	->PAR: 42.20 4.20 3.00
+PAR (1): Existem 1 ligações a partir de Paris
+	->MAD: 13.42 3.20 6.00
+5

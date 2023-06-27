@@ -1,0 +1,5 @@
+LIS (1): Existem 2 ligações a partir de Lisboa
+	->OPO: 1.00 1.00 5.00
+	->MAD: 1.00 1.00 3.00
+LIS->PAR T=4.00
+	LIS->MAD->PAR

@@ -1,0 +1,15 @@
+*Cidade OPO inexistente
+*LIS->OPO sem ligação
+LIS->OPO T=1.00
+	LIS->OPO
+LIS->OPO T=1.00
+	LIS->OPO
+LIS (1): Existem 2 ligações a partir de Lisboa
+	->OPO: 1.00 1.00 1.00
+	->PAR: 4.55 1.00 1.00
+LIS->PAR H=2.00
+	LIS->OPO->PAR
+LIS->PAR E=1.00
+	LIS->PAR
+LIS->PAR H=4.55
+	LIS->PAR

@@ -1,0 +1,25 @@
+COR (1): Existem 0 ligações a partir de Cordoba
+LIS (1): Existem 0 ligações a partir de Lisboa
+MAD (1): Existem 0 ligações a partir de Madrid
+OPO (1): Existem 0 ligações a partir de Porto
+SVQ (1): Existem 0 ligações a partir de Sevilha
+ZRH (1): Existem 0 ligações a partir de Zurique
+COR (1): Existem 0 ligações a partir de Cordoba
+LIS (1): Existem 3 ligações a partir de Lisboa
+MAD (1): Existem 4 ligações a partir de Madrid
+OPO (1): Existem 1 ligações a partir de Porto
+SVQ (1): Existem 0 ligações a partir de Sevilha
+ZRH (1): Existem 1 ligações a partir de Zurique
+*Cidade OOO inexistente
+*Cidade FFF inexistente
+*Cidade TRR inexistente
+*Ligação LIS->COR inexistente
+LIS (1): Existem 3 ligações a partir de Lisboa
+	->OPO: 1.00 1.00 1.00
+	->MAD: 1.00 3.44 1.00
+	->ZRH: 1.00 1.00 1.00
+MAD (1): Existem 4 ligações a partir de Madrid
+	->LIS: 1.00 6.69 1.00
+	->SVQ: 1.00 1.00 1.00
+	->COR: 1.00 8.99 1.00
+	->ZRH: 1.00 1.00 1.00
